@@ -1,0 +1,6 @@
+tmp/
+*_old
+*_backap
+/Thumbs.db
+\.DS_Store
+
